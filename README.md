@@ -1,2 +1,7 @@
 # React101
-A series of project from easy-advanced using React!
+1.Pizza-Menu
+2.Steps
+3.Flashcards
+4.Travel-list
+5.Accordion
+
